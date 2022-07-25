@@ -1,0 +1,38 @@
+body{
+    margin: 5%;
+    background-color: beige;
+}
+
+.contenedor1{
+    display: grid;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    margin: auto;
+}
+.contenedor2{
+    display: flex;
+    width: 30%;
+    height: 50%;
+    justify-content: center;
+    margin: 0.1% auto;
+}
+.contenedor3{
+    display: grid;
+    width: 30%;
+    height: 50%;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.c1{
+    height: 50%;
+    width: 60%;
+    margin: 15px auto;
+    
+}
+
+.btn1{
+   width: 30%;
+   margin: 1%;
+}
